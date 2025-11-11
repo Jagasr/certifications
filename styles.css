@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: Ubuntu Mono, Courier New;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: -25px;
+    margin-top: -5px
+}
+.darkmode, .text-right {
+    display: block;
+    text-align: right;
+    margin-left: auto;
+}
+.darkmode {
+    margin-bottom: 4px;
+}
+.text-right {
+    margin-top: -3px;
+}
+.main-section {
+    margin-top: -60px;
+}
+.heading-upcoming-certifications {
+    margin-top: 50px;
+    margin-bottom: -20px;
+}
+.heading-qualifications {
+    margin-top: 40px;
+    margin-bottom: -20px;
+}
+#date-of-information {
+    margin-bottom: 50px;
+}
+.last-section {
+    margin-bottom: 80px;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+}
+footer p {
+    margin-top: -15px;
+}
